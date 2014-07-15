@@ -1,11 +1,11 @@
 {
-	"full_name": "Taylor \"Nekroze\" Lawson",
-	"email": "nekroze@eturnilnetwork.com",
-	"github_username": "Nekroze",
-	"project_name": "A Lot of Effort",
-	"repo_name": "alotofeffort",
-	"project_short_description": "Deploy static HTML sites to S3 with the simple 'alotofeffort' command.",
-	"release_date": "2013-07-10",
-	"year": "2013",
+	"full_name": "Gert Burger",
+	"email": "gertburger@gmail.com",
+	"github_username": "gertburger",
+	"project_name": "Project Name",
+	"repo_name": "projectname",
+	"project_short_description": "Project description",
+	"release_date": "2014-07-10",
+	"year": "2014",
 	"version": "0.1.0"
 }
